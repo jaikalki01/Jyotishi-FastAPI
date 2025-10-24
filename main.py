@@ -57,7 +57,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="AstroOnline API",
-    description="API for Umeed WebApp.",
+    description="API for Jyotishi WebApp.",
     version="1.0.0",
     lifespan=lifespan,
 )

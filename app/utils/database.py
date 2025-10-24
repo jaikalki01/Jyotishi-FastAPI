@@ -11,7 +11,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 
 # ✅ MySQL Database URL
 DATABASE_URL = "mysql+pymysql://root:office1234@localhost/astro_schemas"
-# DATABASE_URL = "mysql+pymysql://sameerbangkokumeed:Sameer1313umeed@localhost/astro_schemas"
+#DATABASE_URL = "mysql+pymysql://sameerbangkokumeed:Sameer1313umeed@localhost/astro_schemas"
 
 # Example:
 # DATABASE_URL = "mysql+pymysql://root:password123@localhost/templamart"
